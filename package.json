@@ -1,7 +1,7 @@
 {
-  "name": "reactjs-redux-starter",
+  "name": "coursa",
   "version": "1.0.0",
-  "description": "Starter kit for React and Redux",
+  "description": "A React and redux application that enable you to CRUD courses (it can be used as a Starter kit for React and Redux)",
   "scripts": {
     "prestart": "babel-node tools/startMessage.js",
     "start": "npm-run-all --parallel test:watch open:src lint:watch",
@@ -67,6 +67,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/pluralsight-redux-starter"
+    "url": "https://github.com/progamr/coursa"
   }
 }
